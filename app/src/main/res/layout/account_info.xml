@@ -135,7 +135,6 @@
                 android:imeOptions="actionNext"
                 android:inputType="textCapWords"
                 android:nextFocusDown="@+id/editState">
-                tools:background="?android:attr/colorButtonNormal"
             </EditText>
 
             <EditText
